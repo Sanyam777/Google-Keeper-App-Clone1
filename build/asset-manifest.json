@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Google-Keeper-App-Clone/static/js/main.ff371806.chunk.js",
+    "main.js.map": "/Google-Keeper-App-Clone/static/js/main.ff371806.chunk.js.map",
+    "runtime-main.js": "/Google-Keeper-App-Clone/static/js/runtime-main.6b10b978.js",
+    "runtime-main.js.map": "/Google-Keeper-App-Clone/static/js/runtime-main.6b10b978.js.map",
+    "static/js/2.88e6856e.chunk.js": "/Google-Keeper-App-Clone/static/js/2.88e6856e.chunk.js",
+    "static/js/2.88e6856e.chunk.js.map": "/Google-Keeper-App-Clone/static/js/2.88e6856e.chunk.js.map",
+    "index.html": "/Google-Keeper-App-Clone/index.html",
+    "precache-manifest.1e43e7fc530c7b03c34f45816be74e76.js": "/Google-Keeper-App-Clone/precache-manifest.1e43e7fc530c7b03c34f45816be74e76.js",
+    "service-worker.js": "/Google-Keeper-App-Clone/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b10b978.js",
+    "static/js/2.88e6856e.chunk.js",
+    "static/js/main.ff371806.chunk.js"
+  ]
+}
